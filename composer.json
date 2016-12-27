@@ -1,5 +1,5 @@
 {
-    "name": "diamond/illuminate-menu",
+    "name": "adiamond/illuminate-menu",
 
     "description": "A menu builder for Laravel using Bootstrap's markup.",
 
@@ -24,8 +24,8 @@
 
     "require-dev": {
         "mockery/mockery": "~0.9",
-        "illuminate/http": "^5.1.*|^5.2.*|^5.3.*",
-        "illuminate/support": "^5.1.*|^5.2.*|^5.3.*"
+        "illuminate/http": "5.1.*|5.2.*|5.3.*",
+        "illuminate/support": "5.1.*|5.2.*|5.3.*"
     },
 
     "autoload": {

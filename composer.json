@@ -1,5 +1,5 @@
 {
-    "name": "kalnoy/illuminate-menu",
+    "name": "diamond/illuminate-menu",
 
     "description": "A menu builder for Laravel using Bootstrap's markup.",
 
@@ -20,8 +20,8 @@
 
     "require-dev": {
         "mockery/mockery": "~0.9",
-        "illuminate/http": "4.2 - 5.2",
-        "illuminate/support": "4.2 - 5.2"
+        "illuminate/http": "^5.1.*|^5.2.*|^5.3.*",
+        "illuminate/support": "^5.1.*|^5.2.*|^5.3.*"
     },
 
     "autoload": {

@@ -11,11 +11,15 @@
         {
             "name": "Alexander Kalnoy",
             "email": "lazychaser@gmail.com"
+        },
+        {
+            "name": "Arash Farahani",
+            "email": "arashmf71@gmail.com"
         }
     ],
 
     "require": {
-        "php": ">=5.4.0"
+        "php": ">=5.6.4"
     },
 
     "require-dev": {
